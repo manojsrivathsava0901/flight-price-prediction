@@ -32,14 +32,4 @@ The model uses historical flight data to predict the price based on the features
 - `app.py`: The main Python file that contains the Flask app logic.
 - `flight_rf.pkl`: The pre-trained machine learning model (Random Forest Regressor).
 - `flight.html`: The HTML file for the frontend.
-- `README.md`: Documentation for the project.
-
-## How to Run the Application Locally
-
-### Step 1: Clone the Repository
-
-First, clone the repository to your local machine.
-
-```bash
-git clone https://github.com/your-username/flight-price-prediction.git
-cd flight-price-prediction
+-
