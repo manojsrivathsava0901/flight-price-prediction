@@ -32,4 +32,3 @@ The model uses historical flight data to predict the price based on the features
 - `app.py`: The main Python file that contains the Flask app logic.
 - `flight_rf.pkl`: The pre-trained machine learning model (Random Forest Regressor).
 - `flight.html`: The HTML file for the frontend.
--
